@@ -1,0 +1,8 @@
+node_modules
+.codex/
+.next
+out
+*.log
+.DS_Store
+.env*
+!.env.example
